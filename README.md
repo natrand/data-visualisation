@@ -4,7 +4,7 @@ Welcome to the Data Visualization and Obesity Classification repository. This pr
 
 ## Dataset
 
-The dataset used for this project is obtained from Kaggle and can be found in the `data` directory. It includes a CSV file named `obesity_classification.csv` containing various features such as age, height, weight and gender.
+The dataset used for this project is obtained from Kaggle and can be found in the `data` directory. It includes a CSV file named `obesityclassification.csv` containing various features such as age, height, weight and gender.
 
 ## Jupyter Notebook Files
 

@@ -26,9 +26,9 @@ The primary Jupyter Notebook file in this repository is `obesity_classification.
 
 To replicate the analysis and classification process:
 
-1. Clone this repository: `git clone https://github.com/natrand/data-visualisation.git`.
+1. Clone this repository: `git clone https://github.com/natrand/obesity-classification.git`.
 
-2. Navigate to the cloned directory: `cd data-visualisation`.
+2. Navigate to the cloned directory: `cd obesity-classification`.
 
 3. Install required packages: `pip install -r requirements.txt`.
 
